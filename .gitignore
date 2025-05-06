@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.idea/
+packages/
+*.whl
+*.tar.gz
+*.egg-info/
+*.service
+*.log
+venv/
+install_and_setup.sh

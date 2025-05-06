@@ -1,0 +1,15 @@
+fastapi==0.79.0
+uvicorn==0.18.3
+pymavlink==2.4.43
+python-multipart==0.0.6
+pydantic==1.10.7
+anyio==3.7.1
+#lxml==4.9.3
+wheel==0.38.4
+packaging==23.2
+pyparsing==3.1.2
+starlette==0.19.1
+tomli==2.0.1
+click==8.1.8
+future==1.0.0
+h11==0.14.0
